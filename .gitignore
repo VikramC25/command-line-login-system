@@ -1,0 +1,5 @@
+.gocache/
+.gomodcache/
+data/
+auth-cli
+auth-cli.exe

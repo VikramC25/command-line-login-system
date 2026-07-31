@@ -1,0 +1,8 @@
+.git
+.gocache
+.gomodcache
+data
+*.db
+.env
+auth-cli
+auth-cli.exe
